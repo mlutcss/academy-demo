@@ -188,9 +188,6 @@ html {
 .Mb1u {
   margin-bottom: 0.25rem;
 }
-.-Ctx:focus-within .\^\:fw\:_C-\$accent200 {
-  color: var(--ml-accent200);
-}
 .Fnf-mUss {
   font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
