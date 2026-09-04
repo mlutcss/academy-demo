@@ -136,9 +136,6 @@ html {
 .Lnh100p {
   line-height: 100%;
 }
-.P0 {
-  padding: 0px;
-}
 .Ps {
   position: relative;
 }
@@ -222,41 +219,22 @@ html {
 .Fnw700 {
   font-weight: 700;
 }
-/* \ */
-/* / */
 .Fns6u {
   font-size: 1.5rem;
 }
-/* \ */
-/* / */
 .Bgc-\$accent900 {
   background-color: var(--ml-accent900);
 }
-/* \ */
-/* / */
 .Bgc-\$secondary850_h:hover {
   background-color: var(--ml-secondary850);
 }
-/* \ */
-/* / */
 .W18u {
   width: 4.5rem;
 }
-/* \ */
-/* / */
 .Bdrd10u {
   border-radius: 2.5rem;
 }
-/* \ */
-/* / */
 .Fnw600 {
   font-weight: 600;
 }
 /* \ */
-.-Ts_\:input\,\:textarea input, .-Ts_\:input\,\:textarea textarea {
-  transition-duration: 0.3s;
-  transition-property: background-color, border-color, color, fill, stroke, backdrop-filter, box-shadow, filter, opacity, transform;
-}
-.Ps-a_af::after {
-  position: absolute;
-}

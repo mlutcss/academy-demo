@@ -136,9 +136,6 @@ html {
 .Lnh100p {
   line-height: 100%;
 }
-.P0 {
-  padding: 0px;
-}
 .Ps {
   position: relative;
 }
@@ -248,9 +245,6 @@ html {
 .Gap5u {
   gap: 1.25rem;
 }
-.Bgc-\$secondary200_h:hover {
-  background-color: var(--ml-secondary200);
-}
 .Bgc-\$secondary300_h:hover {
   background-color: var(--ml-secondary300);
 }
@@ -325,11 +319,18 @@ html {
   color: var(--ml-accent900);
 }
 /* / */
+.O1_f:focus {
+  opacity: 1;
+}
+.O1_h\,fw:hover, .O1_h\,fw:focus-within {
+  opacity: 1;
+}
+.Bgc-\$secondary200_h\,fw:hover, .Bgc-\$secondary200_h\,fw:focus-within {
+  background-color: var(--ml-secondary200);
+}
 .Txw-w {
   text-wrap: wrap;
 }
-/* \ */
-/* / */
 .Rs-n {
   resize: none;
 }

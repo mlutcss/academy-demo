@@ -136,9 +136,6 @@ html {
 .Lnh100p {
   line-height: 100%;
 }
-.P0 {
-  padding: 0px;
-}
 .Ps {
   position: relative;
 }
@@ -192,34 +189,19 @@ html {
 .Fnf-mUss {
   font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
-/* \ */
-/* / */
 .Bdrd3u {
   border-radius: 0.75rem;
 }
-/* \ */
-/* / */
 .Bdtlr3u {
   border-top-left-radius: 0.75rem;
 }
-/* \ */
-/* / */
 .Bdblr3u {
   border-bottom-left-radius: 0.75rem;
 }
-/* \ */
-/* / */
 .Ovy-s {
   overflow-y: scroll;
 }
-/* \ */
-/* / */
 .Ps-sk {
   position: sticky;
-}
-/* \ */
-/* / */
-.Ps-a_af::after {
-  position: absolute;
 }
 /* \ */

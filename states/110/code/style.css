@@ -136,9 +136,6 @@ html {
 .Lnh100p {
   line-height: 100%;
 }
-.P0 {
-  padding: 0px;
-}
 .Ps {
   position: relative;
 }
@@ -296,15 +293,3 @@ html {
   color: var(--ml-accent200);
 }
 /* \ */
-.C-\$accent600 {
-  color: var(--ml-accent600);
-}
-.Bdrd2u {
-  border-radius: 0.5rem;
-}
-.Ps-a_af::after {
-  position: absolute;
-}
-.-Ctx:focus-within .\^\:fw\:_C-\$accent900 {
-  color: var(--ml-accent900);
-}

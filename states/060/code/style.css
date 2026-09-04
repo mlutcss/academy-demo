@@ -136,9 +136,6 @@ html {
 .Lnh100p {
   line-height: 100%;
 }
-.P0 {
-  padding: 0px;
-}
 .Ps {
   position: relative;
 }
@@ -244,10 +241,3 @@ html {
   margin-bottom: 5rem;
 }
 /* \ */
-.-Ts_\:input\,\:textarea input, .-Ts_\:input\,\:textarea textarea {
-  transition-duration: 0.3s;
-  transition-property: background-color, border-color, color, fill, stroke, backdrop-filter, box-shadow, filter, opacity, transform;
-}
-.Ps-a_af::after {
-  position: absolute;
-}
