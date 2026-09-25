@@ -1,6 +1,6 @@
 {
   "title": "Step 14",
-  "mode": "render-single-html",
+  "mode": "BROWSER",
   "visibleTabs": [
     "index.html",
     "style.css"
